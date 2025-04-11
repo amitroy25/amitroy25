@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Amit Kumar!!]</h1>
 
 <p align="center">
   🚀 MCA Final Year Student | Full Stack Developer | Tech Enthusiast 👨‍💻  
@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-🎓 I’m currently in my final year. pursuing my Master of Computer Applications (MCA) with an 8.39 CGPA.
+🎓 I’m currently a final year student of Master of Computer Applications (MCA) with an 8.39 CGPA.
 
 💻 Passionate about full stack development and always excited to explore new tech stacks.  
 
