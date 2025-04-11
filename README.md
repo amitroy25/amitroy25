@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar!!]</h1>
+<h1 align="center">Hi 👋, I'm Amit Kumar!!</h1>
 
 <p align="center">
   🚀 MCA Final Year Student | Full Stack Developer | Tech Enthusiast 👨‍💻  
