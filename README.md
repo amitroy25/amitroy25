@@ -16,9 +16,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 🎓 I’m currently in my final year. pursuing my Master of Computer Applications (MCA) with an 8.39 CGPA.
+<br>
 💻 Passionate about full stack development and always excited to explore new tech stacks.  
+<br>
 🛠️ Worked on various projects using Spring Boot, React, Python, and Next.js.  
+<br>
 🏨 Currently collaborating on a **Hotel Management System** project.  
+<br>
 🌱 Always eager to learn and grow with real-world projects.  
 
 <br>
