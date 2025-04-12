@@ -54,7 +54,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🛠️ My Projects
 <a href="https://github.com/amitroy25/swaggynita" target="_blank"> <img alt="swaggyNITA" src="https://github.com/amitroy25/swaggynita/blob/main/logo.png" height="68" align="left"> </a>
-<a href="" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/amitroy25/emotion-detection" target="_blank"> <img alt="sheetsdatabase" src="https://github.com/amitroy25/emotion-detection/blob/main/logo1.png"  height="68" align="left"> </a>
 <a href="" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
 <a href="" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
