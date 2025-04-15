@@ -56,9 +56,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://github.com/amitroy25/swaggynita" target="_blank"> <img alt="swaggyNITA" src="https://github.com/amitroy25/swaggynita/blob/main/logo.png" height="68" align="left"> </a>
 <a href="https://github.com/amitroy25/emotion-detection" target="_blank"> <img alt="emtion detection" src="https://github.com/amitroy25/emotion-detection/blob/main/logo1.png"  height="68" align="left"> </a>
 <a href="https://github.com/amitroy25/WorkoutApp" target="_blank"> <img alt="workou_app" src="https://github.com/amitroy25/WorkoutApp/blob/master/logo.png" height="68" align="left"> </a>
-<a href="" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<a href="" target="_blank"> <img alt="" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="" target="_blank"> <img alt="" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="" target="_blank"> <img alt="" src="./projects/wavelength.svg" height="68" align="left"> </a>
 
 
 
