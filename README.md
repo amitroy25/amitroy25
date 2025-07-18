@@ -15,7 +15,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-🎓 I’m currently a final year student of Master of Computer Applications (MCA) with an 8.39 CGPA.
+🎓 I’m currently a final year student of Master of Computer Applications (MCA) with an 8.44 CGPA.
 
 💻 Passionate about full stack development and always excited to explore new tech stacks.  
 
